@@ -22,5 +22,5 @@ title: Cédric Blanchard | Développeur web front-end
     <p>
       Je vous présenterais ici les différents projets que j'ai pu réaliser, en développement web ainsi que dans mes précédentes expériences. Vous pouvez déjà en découvrir quelques-uns présents sur mon <a href="https://github.com/Atthis" target="_blank">GitHub</a>.
     </p>
-    <p>Vous pouvez trouver mon CV <a href="./assets/docs/23-01_CV.pdf" target="_blank">ICI</a>.</p>
+    <p>Vous pouvez trouver mon CV <a href="./assets/docs/cedric_blanchard-dev_front-end.pdf" target="_blank">ICI</a>.</p>
   </body>
